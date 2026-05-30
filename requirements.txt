@@ -1,0 +1,84 @@
+# =========================
+# FASTAPI & API
+# =========================
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+
+# =========================
+# DATABASE
+# =========================
+sqlalchemy
+psycopg2-binary
+asyncpg
+alembic
+
+# =========================
+# TRADING / EXCHANGE
+# =========================
+ccxt
+websockets
+aiohttp
+
+# =========================
+# DATA SCIENCE
+# =========================
+numpy
+pandas
+scipy
+
+# =========================
+# TECHNICAL INDICATORS
+# =========================
+ta
+pandas
+numpy
+
+# =========================
+# MACHINE LEARNING / DRL
+# =========================
+torch
+stable-baselines3
+gymnasium
+shimmy
+
+# =========================
+# BACKTESTING
+# =========================
+matplotlib
+plotly
+
+# =========================
+# ASYNC / PERFORMANCE
+# =========================
+orjson
+ujson
+
+# =========================
+# SECURITY
+# =========================
+python-jose[cryptography]
+passlib[bcrypt]
+
+# =========================
+# ENV VARIABLES
+# =========================
+python-dotenv
+
+# =========================
+# LOGGING & MONITORING
+# =========================
+loguru
+
+# =========================
+# TESTING
+# =========================
+pytest
+httpx
+
+# =========================
+# OPTIONAL
+# =========================
+redis

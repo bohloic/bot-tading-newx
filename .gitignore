@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Build
+dist/
+build/
+
+# Models
+*.pt
+*.pth
+*.onnx
